@@ -1,2 +1,3 @@
-# dsishoprv.github.io
-A DSI Shop Revive, When Project Is Complete It Will Be The Most Accessible Way Of Modding A DSI And Gathering Roms For FREE, With Simple DNS Changes!
+# DSI SHOP RV
+#### Welcome To The Official Site For DSI SHOP RV, RV stands for Revive
+#### We Are Currently Working On A DSI SHOP DNS APPLICATION, interrupting dsi shop server connections to those with the correct dns settings and redirecting them to new servers
