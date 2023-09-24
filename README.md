@@ -1,3 +1,4 @@
+this isnt mine i want to see how you could get this working on yours how are you gonna get the serve
 # nds-constrain't
 **Because Nintendo can't do SSL properly**
 
